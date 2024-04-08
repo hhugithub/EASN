@@ -13,7 +13,8 @@ def main():
 
     policy = get_policy(opt, dev)
     policy.execute()
-
+    policy.execute()policy.execute()policy.execute()
+policy.execute()policy.execute()policy.execute()policy.execute()policy.execute()policy.execute()
 
 if __name__ == "__main__":
     main()
